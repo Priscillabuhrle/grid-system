@@ -2,7 +2,9 @@
 header{
 	background-color: #3B3939;
 }
-
+body{
+	font-family: Arial;
+}
 .logo{
 	margin-left: 20px;
 }
@@ -74,11 +76,13 @@ section{
 	color: #464242;
 }
 .lado2{
-	display: inline-block;
-	font-size: 20px;
+	text-decoration: none;
+	margin: 0 0 0 10px;
+	font-family: Arial;
+	color: #5262B3;
 }
 .grande{
-	width: 10%;
+	width: 7%;
 }
 .azul{
 	color:#5262B3;
@@ -108,4 +112,7 @@ span{
 .pie{
 	text-align: center;
 	color:#B9B8BA;
+}
+li{
+	list-style: none;
 }
