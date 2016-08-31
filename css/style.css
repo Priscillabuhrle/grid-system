@@ -51,6 +51,8 @@ section{
 	width: 70%;
 	margin-left: 20px;
 	margin-top: 20px;
+	padding: 2px;
+	border: 1px solid #cccccc;
 }
 .col-2{
 	width: 14%;
@@ -63,6 +65,7 @@ section{
 	margin-left: 10px;
 	text-align: center;
 	height: 30px;
+	font-size: 15px;
 }
 .ladolado{
 	width: 30%;
