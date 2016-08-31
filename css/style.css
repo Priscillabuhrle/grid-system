@@ -48,7 +48,7 @@ section{
 }
 
 .pelis{
-	width: 70%;
+	width: 80%;
 	margin-left: 20px;
 	margin-top: 20px;
 	padding: 2px;
@@ -99,7 +99,7 @@ section{
 	color:white;
 	font-size: 15px;
 	background-color: #565658;
-	padding: 20px 10px 20px 10px;
+	padding: 20px 8px 20px 10px;
 }
 span{
 	color:#B9B8BA;
@@ -118,4 +118,7 @@ span{
 }
 li{
 	list-style: none;
+}
+.textopie2{
+	font-size: 13.5px;
 }
